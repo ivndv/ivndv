@@ -1,4 +1,4 @@
-# ivndv 🍵 + 💻 + 🌮
+# Hola, soy Ivan 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ivndv&show_icons=true&theme=radical" />
