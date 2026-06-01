@@ -1,6 +1,6 @@
 # Hola, soy Ivan
 
-### Frontend
+<h3 align="center">Frontend</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 </p>
 
-### Backend
+<h3 align="center">Backend</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 </p>
 
-### DBs & Herramientas
+<h3 align="center">DBs & Herramientas</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" />
 </p>
 
-### Tools
+<h3 align="center">Tools</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
@@ -48,14 +48,14 @@
   <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge" />
 </p>
 
-### DevOps
+<h3 align="center">DevOps</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
 
-### Cloud
+<h3 align="center">Cloud</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
@@ -63,7 +63,7 @@
   <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 </p>
 
-### AI
+<h3 align="center">AI</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
@@ -72,7 +72,7 @@
   <img src="https://img.shields.io/badge/OpenCode-6C5CE7?style=for-the-badge&logo=opencode&logoColor=white" />
 </p>
 
-### Editores
+<h3 align="center">Editores</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
