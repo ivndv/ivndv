@@ -1,4 +1,12 @@
-# Hola, soy Ivan
+# 🧑‍💻 Hola, soy Ivan
+
+Soy un Desarrollador de Software especializado en Desarrollo Web Full Stack, DevOps y Cloud Computing, orientado a construir soluciones completas, desde interfaces modernas hasta servicios backend robustos, con infraestructura automatizada y escalable en producción.
+
+He desarrollado aplicaciones web, landing pages, blogs, dashboards y próximamente proyectos de e-commerce, aplicando buenas prácticas de desarrollo y tecnologías modernas en cada etapa del proceso.
+
+Estoy en constante evolución, ampliando mis habilidades en desarrollo, infraestructura y arquitectura de sistemas.
+
+---
 
 <h3 align="center">Frontend</h3>
 
@@ -79,6 +87,17 @@
   <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Zed-084CCF?style=for-the-badge&logo=zedindustries&logoColor=white" />
 </p>
+
+---
+
+<h3 align="center">📬 Contacto</h3>
+
+[![Email](https://img.shields.io/badge/Email-ivangtx19%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivangtx19@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-cruz-1906mx)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ivandv19)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/525657455765)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/ivandv19)
+[![Portfolio](https://img.shields.io/badge/Portfolio-portafolioweb.mgdc.site-blue?style=for-the-badge&logo=astro&logoColor=white)](https://portafolioweb.mgdc.site)
 
 ---
 
