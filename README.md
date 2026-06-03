@@ -93,11 +93,13 @@ Estoy en constante evolución, ampliando mis habilidades en desarrollo, infraest
 <h3 align="center">📬 Contacto</h3>
 
 <p align="center">
-  <a href="mailto:ivangtx19@gmail.com"><img src="https://img.shields.io/badge/Email-ivangtx19%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/ivan-cruz-1906mx"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Ivandv19"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://wa.me/525657455765"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ivan-cruz-1906mx"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://discord.com/users/ivandv19"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="mailto:ivangtx19@gmail.com"><img src="https://img.shields.io/badge/Email-ivangtx19%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
   <a href="https://portafolioweb.mgdc.site"><img src="https://img.shields.io/badge/Portfolio-portafolioweb.mgdc.site-blue?style=for-the-badge&logo=astro&logoColor=white" /></a>
 </p>
 
