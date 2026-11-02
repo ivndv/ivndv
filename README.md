@@ -113,7 +113,7 @@ Estoy en constante evolución, ampliando mis habilidades en desarrollo, infraest
   <a href="https://github.com/Ivandv19"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ivan-cruz-1906mx"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://discord.com/users/ivandv19"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="mailto:ivangtx19@gmail.com"><img src="https://img.shields.io/badge/Email-ivangtx19%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:ivangtx19@proton.me"><img src="https://img.shields.io/badge/Email-ivangtx19%40proton.me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
